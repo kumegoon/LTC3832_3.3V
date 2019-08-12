@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LTC3832-1_DEMO)(type KiCad)(uri /Users/kume/LTC3832/Lib/LTC3832-1_DEMO.pretty)(options "")(descr ""))
+)
